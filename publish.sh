@@ -22,4 +22,5 @@ git commit -m 'deploy'
 # if you are deploying to https://bim22614.github.io/<REPO>
 git push -f https://github.com/bim22614/edu_db_labs master:gh-pages
 
+
 cd -
