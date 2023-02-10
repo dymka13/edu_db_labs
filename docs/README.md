@@ -3,7 +3,7 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Ілля Богуш]"
+footer: "ECL 2.0 Licensed | Copyright © [Богуш, Бризгалов, Ухач, Заславець, Мір Сагжарі Мір Алі]"
 ---
 
 
