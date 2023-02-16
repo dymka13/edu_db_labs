@@ -9,15 +9,15 @@ footer: "ECL 2.0 Licensed | Copyright © [Богуш, Бризгалов, Уха
 
 **Виконали** 
 
-_студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Ілля Богуш](https://t.me/bogush_illia)**
+студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Ілля Богуш](https://t.me/bogush_illia)**
 
-_студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Дмитро Бризгалов](https://t.me/Dmitriy12511)**
+студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Дмитро Бризгалов](https://t.me/Dmitriy12511)**
 
-_студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Денис Ухач](https://t.me/sedui)**
+студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Денис Ухач](https://t.me/sedui)**
 
-_студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Матвій Заславець](https://t.me/Olenizbudushego)**
+студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Матвій Заславець](https://t.me/Olenizbudushego)**
 
-_студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Мір Санжарі Мір Алі](https://t.me/kar1owka)**
+студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Мір Санжарі Мір Алі](https://t.me/kar1owka)**
 
 
 **Керівник**
