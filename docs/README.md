@@ -19,6 +19,7 @@ footer: "ECL 2.0 Licensed | Copyright © [Богуш, Бризгалов, Уха
 
 студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Мір Санжарі Мір Алі](https://t.me/kar1owka)**
 
+студент 2-го курсу, групи ІО-14<span padding-right:5em></span> **[Михайлов Володимир](https://t.me/Nintels)**
 
 **Керівник**
 
