@@ -77,5 +77,60 @@
 
 ## ER-модель
 
+@startuml
+	entity User <<ENTITY>> {
+    id:INT
+    usersname:TEXT
+    mail:TEXT
+    password:TEXT
+  }
+  
+  entity Expert <<ENTITY>>{
+    id:INT
+    job:TEXT
+  }
+  
+  entity Quiz <<ENTITY>>{
+    id:INT
+    text:TEXT
+    type:TEXT
+    topic:TEXT
+    date:DATE
+    state:TEXT
+  }
+  
+  entity Question <<ENTITY>>{
+    id:INT
+    type:TEXT
+    text:TEXT
+  }
+
+  entity Option <<ENTITY>>{
+    id:INT
+    type:TEXT
+    text:TEXT    
+	}
+
+  entity Answer <<ENTITY>> {
+    userId:INT
+    id:INT
+    text:TEXT
+    data:DATE
+  }
+  
+  entity SelectedOption {
+    id: INT
+  }
+
+  Question "1, 1"<-u- "0, *" Option
+  Answer "1, 1" <-u- "0, *" Question
+  Quiz "0, *" -u-> "1, 1" Question
+  Answer "1, 1" <-u- "0, *" Expert
+  Expert "1, 1" <-u- "1, 1" User
+  Answer "1, 1" <-u- "0, *" SelectedOption
+  SelectedOption "1, 1" <-u- "0, *" Option
+@enduml
 
 ## Реляційна схема
+
+![Реляційна схем.](https://user-images.githubusercontent.com/89911844/208446950-788117bd-fab0-4e1c-b2b6-cb4f5440e03e.png)
