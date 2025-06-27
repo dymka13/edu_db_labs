@@ -1,18 +1,22 @@
 // .vuepress/config.js
 module.exports = {
   plugins: [
-    '@vuepress/back-to-top', 
-    '@vuepress/pwa', 
-    {
-      serviceWorker: true,
-      updatePopup: true
-    },
-    ,
-    ['container', {
-      type: 'vue',
-      before: '<pre class="vue-container"><code>',
-      after: '</code></pre>'
-    }]
+    '@vuepress/back-to-top',
+    [
+      '@vuepress/pwa',
+      {
+        serviceWorker: true,
+        updatePopup: true,
+      },
+    ],
+    [
+      'container',
+      {
+        type: 'vue',
+        before: '<pre class="vue-container"><code>',
+        after: '</code></pre>',
+      },
+    ],
   ],
   port: 3030,
   base: '/edu_db_labs/',
