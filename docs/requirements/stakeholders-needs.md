@@ -15,7 +15,7 @@
 
 ### <a name='4'> </a>Основні визначення та скорочення
 
-Див. [Аналіз предметної області](https://bim22614.github.io/edu_db_labs/requirements/state-of-the-art.html)
+Див. [Аналіз предметної області](https://dymka13.github.io/edu_db_labs/requirements/state-of-the-art.html)
 
 ## Короткий зміст
 
